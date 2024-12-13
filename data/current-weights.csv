@@ -1,0 +1,50 @@
+name	category	cost_of_living_factor	rent_factor
+1 Pair of Jeans (Levis 501 Or Similar)	Clothing And Shoes	0.35	0
+1 Summer Dress in a Chain Store (Zara, H&M, …)	Clothing And Shoes	0.35	0
+1 Pair of Nike Running Shoes (Mid-Range)	Clothing And Shoes	0.35	0
+1 Pair of Men Leather Business Shoes	Clothing And Shoes	0.35	0
+Milk (regular), (1 liter)	Markets	25	0
+Loaf of Fresh White Bread (500g)	Markets	31	0
+Rice (white), (1kg)	Markets	14	0
+Eggs (regular) (12)	Markets	20	0
+Local Cheese (1kg)	Markets	12	0
+Chicken Fillets (1kg)	Markets	15	0
+Beef Round (1kg) (or Equivalent Back Leg Red Meat)	Markets	15	0
+Apples (1kg)	Markets	31	0
+Banana (1kg)	Markets	25	0
+Oranges (1kg)	Markets	30	0
+Tomato (1kg)	Markets	22	0
+Potato (1kg)	Markets	24	0
+Onion (1kg)	Markets	10	0
+Lettuce (1 head)	Markets	18	0
+Water (1.5 liter bottle, at the market)	Markets	30	0
+Bottle of Wine (Mid-Range, at the market)	Markets	4	0
+Domestic Beer (0.5 liter bottle, at the market)	Markets	6	0
+Imported Beer (0.33 liter bottle, at the market)	Markets	6	0
+Cigarettes 20 Pack (Marlboro)	Markets	15	0
+Apartment (1 bedroom) in City Centre	Rent Per Month	0	0.25
+Apartment (1 bedroom) Outside of Centre	Rent Per Month	0	0.25
+Apartment (3 bedrooms) in City Centre	Rent Per Month	0	0.25
+Apartment (3 bedrooms) Outside of Centre	Rent Per Month	0	0.25
+Meal, Inexpensive Restaurant	Restaurants	16	0
+Meal for 2 People, Mid-range Restaurant, Three-course	Restaurants	3.5	0
+McMeal at McDonalds (or Equivalent Combo Meal)	Restaurants	6	0
+Domestic Beer (0.5 liter draught, in restaurants)	Restaurants	5	0
+Imported Beer (0.33 liter bottle, in restaurants)	Restaurants	5	0
+Cappuccino (regular, in restaurants)	Restaurants	15	0
+Coke/Pepsi (0.33 liter bottle, in restaurants)	Restaurants	6	0
+Water (0.33 liter bottle, in restaurants)	Restaurants	6	0
+Fitness Club, Monthly Fee for 1 Adult	Sports And Leisure	2.3	0
+Tennis Court Rent (1 Hour on Weekend)	Sports And Leisure	3	0
+Cinema, International Release, 1 Seat	Sports And Leisure	6	0
+One-way Ticket (Local Transport)	Transportation	20	0
+Monthly Pass (Regular Price)	Transportation	1.5	0
+Taxi Start (Normal Tariff)	Transportation	5	0
+Taxi 1km (Normal Tariff)	Transportation	20	0
+Taxi 1hour Waiting (Normal Tariff)	Transportation	0.7	0
+Gasoline (1 liter)	Transportation	60	0
+Volkswagen Golf 1.4 90 KW Trendline (Or Equivalent New Car)	Transportation	0.0035	0
+Toyota Corolla Sedan 1.6l 97kW Comfort (Or Equivalent New Car)	Transportation	0.0035	0
+Basic (Electricity, Heating, Cooling, Water, Garbage) for 85m2 Apartment	Utilities (Monthly)	1	0
+1 min. of Prepaid Mobile Tariff Local (No Discounts or Plans)	Utilities (Monthly)	4	0
+Internet (60 Mbps or More, Unlimited Data, Cable/ADSL)	Utilities (Monthly)	1	0
