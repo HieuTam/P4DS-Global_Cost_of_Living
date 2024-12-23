@@ -1,0 +1,44 @@
+# Chi phí sinh hoạt ở các thành phố trên toàn thế giới
+
+## Tổng quan
+Dataset này liên quan đến **chi phí sinh hoạt** tại hơn 5000 thành phố toàn cầu, cung cấp thông tin chi tiết về giá cả các loại hàng hóa và dịch vụ, hỗ trợ phân tích mức độ chi phí sinh hoạt tại các khu vực khác nhau.
+
+- **Nguồn thu thập dữ liệu:** [Numbeo](https://www.numbeo.com)
+- **Điều khoản sử dụng:** Theo [Terms of Use - Numbeo.com](https://www.numbeo.com/common/terms_of_use.jsp), dữ liệu **có thể được sử dụng cho mục đích cá nhân hoặc học thuật** với điều kiện phải **trích dẫn nguồn đầy đủ**.
+
+Dữ liệu được thu thập thông qua biểu mẫu trực tuyến từ người dùng kết hợp với các nguồn đáng tin cậy (chính phủ, siêu thị, công ty taxi). Các nhóm chi phí bao gồm:
+- Nhà hàng (`Restaurants`)
+- Chợ (`Markets`)
+- Giao thông (`Transportation`)
+- Tiện ích hàng tháng (`Utilities (Monthly)`)
+- Thể thao và giải trí (`Sports And Leisure`)
+- Chăm sóc trẻ em (`Childcare`)
+- Quần áo và giày dép (`Clothing And Shoes`)
+- Tiền thuê nhà (`Rent Per Month`)
+- Giá mua căn hộ (`Buy Apartment Price`)
+- Lương và tài chính (`Salaries And Financing`)
+
+Xem thêm biểu mẫu tại [đây](https://www.numbeo.com/common/form.jsp?country=Vietnam&city=Ho+Chi+Minh+City¤cy=VND).
+
+---
+
+## Câu hỏi nghiên cứu
+1. **Mức lương tháng trung bình và lãi suất vay thế chấp theo năm giữa các khu vực trên thế giới có sự phân hóa như thế nào?**  
+2. **Tỷ lệ phần trăm của các nhóm chi phí sinh hoạt trong tổng chi phí ở từng khu vực trên thế giới là bao nhiêu?**  
+3. **Sự khác biệt về Chỉ số Chi phí Sinh hoạt (Cost of Living Index - COLI) giữa các khu vực, quốc gia và thành phố trên toàn cầu?**  
+4. **Sự thay đổi của Chỉ số Sức Mua Địa Phương (Local Purchasing Power Index) giữa các khu vực, quốc gia và thành phố trên toàn cầu?**  
+5. **Để đạt được mục tiêu dài hạn như sở hữu một chiếc xe hơi hoặc một căn hộ, người dân cần bao nhiêu tháng lương tối thiểu?**
+
+---
+
+## Tài liệu tham khảo
+1. Phạm Trọng Nghĩa, *Slide bài giảng Lý thuyết học phần Lập trình cho Khoa học dữ liệu*, ĐHQG-HCM, 2024. [Xem tại đây](https://drive.google.com/drive/folders/1FyzNTCs_xpx-CUVBw_VwXlEt73tf8ywX)  
+2. Lê Nhựt Nam, *Tài liệu hướng dẫn thực hành học phần Lập trình cho Khoa học dữ liệu*, ĐHQG-HCM, 2024. [Xem tại đây](https://drive.google.com/drive/folders/1DlulGc0HnsLLTKX_JZwuANiG3uLmSrZ8)  
+3. Numbeo.com, *Cost of Living*, 2024. [Xem tại đây](https://www.numbeo.com/cost-of-living/)  
+4. Numbeo.com, *Methodology and Motivation*, 2024. [Xem tại đây](https://www.numbeo.com/common/motivation_and_methodology.jsp)  
+5. Numbeo.com, *Understanding our Cost of Living Indexes*, 2024. [Xem tại đây](https://www.numbeo.com/cost-of-living/cpi_explained.jsp)  
+
+---
+
+## Kế hoạch thực hiện
+[Link Google Sheet](https://docs.google.com/spreadsheets/d/1Coj-E3FZMRZKvXM_GuciuHJBzGtHUytp/edit?gid=72322104#gid=72322104)
