@@ -24,24 +24,24 @@ Xem thêm biểu mẫu tại [đây](https://www.numbeo.com/common/form.jsp?coun
 
 ## Câu hỏi nghiên cứu
 1. **Mức lương tháng trung bình và lãi suất vay thế chấp theo năm giữa các khu vực trên thế giới có sự phân hóa như thế nào?**
-- Câu 1.1: Mức lương tháng trung bình và lãi suất vay thế chấp theo năm ở các khu vực trên thế giới là bao nhiêu và phân phối như thế nào?
-- Câu 1.2: Mức lương tháng trung bình và lãi suất vay thế chấp theo năm của các thành phố ở khu vực Đông Á - Đông Nam Á có sự phân hóa như thế nào?
+  - Câu 1.1: Mức lương tháng trung bình và lãi suất vay thế chấp theo năm ở các khu vực trên thế giới là bao nhiêu và phân phối như thế nào?
+  - Câu 1.2: Mức lương tháng trung bình và lãi suất vay thế chấp theo năm của các thành phố ở khu vực Đông Á - Đông Nam Á có sự phân hóa như thế nào?
   
 2. **Tỷ lệ phần trăm của các nhóm chi phí sinh hoạt trong tổng chi phí ở từng khu vực trên thế giới là bao nhiêu?**
    
 3. **Sự khác biệt về Chỉ số Chi phí Sinh hoạt (Cost of Living Index - COLI) giữa các khu vực, quốc gia và thành phố trên toàn cầu?**
-- Câu 3.1: Giá trị trung bình của Chỉ số chi phí sinh hoạt `COLI (Plus Rent)` là bao nhiêu theo các khu vực, quốc gia, thành phố trên toàn cầu và chỉ số này có phân phối như thế nào?
-- Câu 3.2: Chỉ số chi phí sinh hoạt `COLI (Plus Rent)` của các thành phố ở khu vực Đông Á - Đông Nam Á có sự phân hóa như thế nào?
+  - Câu 3.1: Giá trị trung bình của Chỉ số chi phí sinh hoạt `COLI (Plus Rent)` là bao nhiêu theo các khu vực, quốc gia, thành phố trên toàn cầu và chỉ số này có phân phối như thế nào?
+  - Câu 3.2: Chỉ số chi phí sinh hoạt `COLI (Plus Rent)` của các thành phố ở khu vực Đông Á - Đông Nam Á có sự phân hóa như thế nào?
   
 4. **Sự thay đổi của Chỉ số Sức Mua Địa Phương (Local Purchasing Power Index) giữa các khu vực, quốc gia và thành phố trên toàn cầu?**
-- Câu 4.1: Chỉ số sức mua địa phương (`Local Purchasing Power Index`) có sự biến động ra sao giữa các khu vực, quốc gia, thành phố trên toàn cầu và phân phối của chỉ số này phản ánh những xu hướng nào?
-- Câu 4.2: Chỉ số sức mua địa phương (`Local Purchasing Power Index`) ở các thành phố khu vực Đông Á - Đông Nam Á có sự phân hóa như thế nào?
+  - Câu 4.1: Chỉ số sức mua địa phương (`Local Purchasing Power Index`) có sự biến động ra sao giữa các khu vực, quốc gia, thành phố trên toàn cầu và phân phối của chỉ số này phản ánh những xu hướng nào?
+  - Câu 4.2: Chỉ số sức mua địa phương (`Local Purchasing Power Index`) ở các thành phố khu vực Đông Á - Đông Nam Á có sự phân hóa như thế nào?
 
  5. **Để đạt được mục tiêu dài hạn như sở hữu một chiếc xe hơi hoặc một căn hộ, người dân cần bao nhiêu tháng lương tối thiểu?**
-- Câu 5.1: Số tháng lương trung bình tối thiểu cần thiết để có thể sở hữu một chiếc ô tô hoặc một căn nhà ở các khu vực là bao nhiêu?
-- Câu 5.2: Có bao nhiêu thành phố không đủ khả năng vay thế chấp và trả bằng lương tháng trung bình sau thuế để sở hữu một chiếc ô tô hoặc một căn hộ?
-- Câu 5.3: Sự khác biệt về số tháng lương cần để sở hữu căn hộ trung tâm so với căn hộ ngoài trung tâm, cũng như giữa việc mua trả góp và mua trực tiếp các tài sản có sự chênh lệch ra sao?
-- Câu 5.4: Sự phân hóa về số tháng lương trung bình sau thuế cần để sở hữu các tài sản có giá trị lớn giữa các thành phố trong khu vực Đông Á - Đông Nam Á như thế nào?
+  - Câu 5.1: Số tháng lương trung bình tối thiểu cần thiết để có thể sở hữu một chiếc ô tô hoặc một căn nhà ở các khu vực là bao nhiêu?
+  - Câu 5.2: Có bao nhiêu thành phố không đủ khả năng vay thế chấp và trả bằng lương tháng trung bình sau thuế để sở hữu một chiếc ô tô hoặc một căn hộ?
+  - Câu 5.3: Sự khác biệt về số tháng lương cần để sở hữu căn hộ trung tâm so với căn hộ ngoài trung tâm, cũng như giữa việc mua trả góp và mua trực tiếp các tài sản có sự chênh lệch ra sao?
+  - Câu 5.4: Sự phân hóa về số tháng lương trung bình sau thuế cần để sở hữu các tài sản có giá trị lớn giữa các thành phố trong khu vực Đông Á - Đông Nam Á như thế nào?
 
 ---
 
