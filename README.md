@@ -29,7 +29,7 @@ Xem thêm biểu mẫu tại [đây](https://www.numbeo.com/common/form.jsp?coun
 - **1.2:** Mức lương tháng trung bình và lãi suất vay thế chấp theo năm ở các thành phố thuộc khu vực Đông Á - Đông Nam Á có sự phân hóa ra sao?  
 
 ### 2. Tỷ lệ phần trăm của các nhóm chi phí sinh hoạt trong tổng chi phí sinh hoạt
-- **2.1:** Các nhóm chi phí sinh hoạt chiếm tỷ lệ bao nhiêu phần trăm trong tổng chi phí tại từng khu vực trên thế giới?  
+- Các nhóm chi phí sinh hoạt chiếm tỷ lệ bao nhiêu phần trăm trong tổng chi phí tại từng khu vực trên thế giới?  
 
 ### 3. Sự khác biệt về Chỉ số Chi phí Sinh hoạt (Cost of Living Index - COLI)
 - **3.1:** Giá trị trung bình của chỉ số `COLI (Plus Rent)` tại các khu vực, quốc gia, thành phố trên toàn cầu là bao nhiêu? Phân phối của chỉ số này phản ánh điều gì?  
