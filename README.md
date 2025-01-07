@@ -3,7 +3,7 @@
 ## Tổng quan
 Dataset này liên quan đến **chi phí sinh hoạt** tại hơn 5000 thành phố toàn cầu, cung cấp thông tin chi tiết về giá cả các loại hàng hóa và dịch vụ, hỗ trợ phân tích mức độ chi phí sinh hoạt tại các khu vực khác nhau.
 
-- **Nguồn thu thập dữ liệu:** [Numbeo](https://www.numbeo.com)
+- **Nguồn thu thập dữ liệu:** [Numbeo](https://www.numbeo.com) thông qua [Kaggle](https://www.kaggle.com/datasets/mvieira101/global-cost-of-living?select=cost-of-living_v2.csv)
 - **Điều khoản sử dụng:** Theo [Terms of Use - Numbeo.com](https://www.numbeo.com/common/terms_of_use.jsp), dữ liệu **có thể được sử dụng cho mục đích cá nhân hoặc học thuật** với điều kiện phải **trích dẫn nguồn đầy đủ**.
 
 Dữ liệu được thu thập thông qua biểu mẫu trực tuyến từ người dùng kết hợp với các nguồn đáng tin cậy (chính phủ, siêu thị, công ty taxi). Các nhóm chi phí bao gồm:
